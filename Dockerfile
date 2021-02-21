@@ -1,6 +1,6 @@
 FROM continuumio/anaconda3
 
-LABEL version="1.0.3"
+LABEL version="2021.02.21"
 LABEL maintainer="github.com/pdreeves"
 LABEL description="A container I use for stats work."
 
